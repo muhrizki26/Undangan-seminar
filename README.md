@@ -54,7 +54,7 @@
 </head>
 <body>
     <div class="card">
-        <h1>🎉 Undangan Ulang Tahun 🎉</h1>
+        <h1> UNDANGAN SEMINAR PROPOSAL </h1>
         <p>Halo semuanya!</p>
         <p>Kamu diunddang ke acara seminar proposal!<br />
         Acaranya seru banget, jangan sampai ketinggalan ya.</p>
